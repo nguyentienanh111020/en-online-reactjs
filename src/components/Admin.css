@@ -1,0 +1,40 @@
+.accordion {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  width: 1000px;
+}
+
+.container {
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  margin-right: 15px;
+  padding: 8px;
+  background-color: #0c63e42e;
+  color: #1568e4;
+  border: 0;
+}
+
+.logout {
+  text-align: center;
+  /* display: flex; */
+  justify-content: center;
+  margin-bottom: 10px;
+  align-items: center;
+  white-space: normal;
+}
+
+.other-pages {
+  display: flex;
+}
+
+#admin-title {
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding-bottom: 10px;
+}

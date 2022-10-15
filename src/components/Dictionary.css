@@ -1,0 +1,28 @@
+.dictionary-container {
+  padding-top: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 150px;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+
+.contain {
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+p {
+  margin-bottom: 1px;
+}
+
+.col-12 {
+  width: 100%;
+}
+
+.logout {
+  text-decoration: none;
+}

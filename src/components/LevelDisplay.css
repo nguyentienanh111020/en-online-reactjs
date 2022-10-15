@@ -1,0 +1,34 @@
+h1 {
+  padding-top: 15px;
+}
+.accordion {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  width: 1000px;
+}
+
+audio {
+  margin-top: 20px;
+}
+
+input[type="checkbox"] {
+  color: #ffffff;
+  font-weight: bold;
+  background: red;
+}
+
+button {
+  margin-right: 15px;
+  padding: 8px;
+  background-color: #0c63e42e;
+  color: #1568e4;
+  border: 0;
+}
+
+.question-container {
+  padding-bottom: 10px;
+}
+
+.radioCheck {
+  margin-right: 5px;
+}
